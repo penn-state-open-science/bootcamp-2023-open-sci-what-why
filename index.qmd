@@ -1,0 +1,208 @@
+---
+title: "Open Science"
+subtitle: "What is it? Why does it matter?"
+author: "Rick Gilmore"
+institute: "Psychology & Child Study Center"
+format: 
+  revealjs:
+    #logo: logo.png
+    footer: "Open Science: What & Why?"
+
+---
+
+# Preliminary
+
+## Support
+
+- National Institutes of Health, R01-HD094830
+- National Science Foundation, 
+- John S. Templeton Foundation
+
+## Agenda
+
+- Cautionary tales
+- What is open science
+- Why does it matter
+
+# Cautionary tales
+
+---
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!-- ## {background-iframe="https://www.youtube.com/embed/66oNv_DJuPc" background-interactive="true"} -->
+
+## "Three Little PI~~g~~s" {background-image="https://miro.medium.com/v2/resize:fit:720/format:webp/1*1xa8D5hsAnn6pQVVBklvhg.jpeg"}
+
+# What is open science?
+
+## Wikipedia {background-image="https://upload.wikimedia.org/wikipedia/commons/d/d8/UNESCO-Open_science-pillars-en.png" background-size="contain" background-opacity="1"}
+
+## Open...
+
+- Knowledge
+- Infrastructure
+- Engagement
+- Dialogue
+
+## Sharing data
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](https://raw.githubusercontent.com/databrary/databrary/3d72b67991df39ddb4b0930386ea94e2c5bb5733/web/images/logo/databrary.png){width=250}
+
+![](https://blogs.bodleian.ox.ac.uk/science/wp-content/uploads/sites/140/2022/11/OSF.png){width="250"}
+
+![](https://www.ohionet.org/wp-content/uploads/2021/08/ICPSR_logo_rgb_3.png){width="250"}
+
+![](img/scholarsphere.png){width="250"}
+:::
+
+::: {.column width="50%"}
+![](img/data-commons.png){width="250"}
+
+![](img/qdr.png){width="250"}
+
+![](img/scientific-data.png){width="250"}
+
+![](https://dataverse.org/files/dataverseorg/files/dataverse_r_project.png){width="250"}
+:::
+
+::::
+
+
+## Sharing materials
+
+- Protocols
+- Data analysis
+    - Pregistered plans
+    - Realized plans
+    - Code
+- Surveys & displays
+
+## {background-iframe="https://play-project.org/"}
+
+## {background-iframe="https://penn-state-open-science.github.io/survey-fall-2022/"}
+
+## {background-iframe="https://www.protocols.io"}
+
+## {background-iframe="https://aspredicted.org"}
+
+## {background-iframe="https://help.osf.io/article/158-create-a-preregistration"}
+
+## {background-iframe="https://nyu.databrary.org/volume/248" background-interactive="true"}
+
+## Using version control
+
+![](img/version-control-docx.png)
+
+---
+
+![](img/github-commit-history.png)
+<https://github.com/penn-state-open-science/bootcamp-2023/commits/main>
+
+## Open Access...
+
+- There is no database of *references* to scholarly work in the public domain
+    - ~~Google Scholar~~
+    - ~~Web of Science~~
+
+# Why does it matter?
+
+---
+
+![](https://miro.medium.com/v2/resize:fit:640/1*Nv4oqbfv5IwRSMdLGtFZuA.gif)
+
+---
+
+> Science is a deceptively inclusive word which refers to a variety of distinct though interrelated items. It is commonly used to denote (1) a set of characteristic methods by means of which knowledge is certified; (2) a stock of accumulated knowledge stemming from the application of these methods; (3) a set of cultural values and mores governing the activities termed scientific; or (4) any combination of the foregoing.
+
+– (Merton, 1973), p. 268
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Robert Merton
+
+![](https://upload.wikimedia.org/wikipedia/en/0/08/Robert_K_Merton.jpg)
+
+:::
+
+::: {.column width="50%"}
+![](https://scontent-iad3-2.xx.fbcdn.net/v/t1.6435-9/67742840_393134398017152_6619486970500349952_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9267fe&_nc_ohc=YiWR9bQuPLMAX8RjHIm&_nc_ht=scontent-iad3-2.xx&oh=00_AfBZJ8eWyr-_w7SEC6rzzbIt0nyN4zKfmNaLX8j5WMsWPg&oe=64D632B1){width="600" image-position="center"}
+:::
+
+::::
+
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Richard Feynmann
+
+![](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/220px-Richard_Feynman_Nobel.jpg)
+
+:::
+
+::: {.column width="50%"}
+
+> ..the idea that we all hope you have learned in studying science in school...It’s a kind of scientific integrity, a **principle of scientific thought that corresponds to a kind of utter honesty**—a kind of leaning over backwards.
+
+:::
+
+::::
+
+## Principle 1: Don’t fool yourself
+
+> The first principle is that **you must not fool yourself—and you are the easiest person to fool**. So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists. You just have to be honest in a conventional way after that.
+
+## Principle 2: Show how you're maybe wrong
+
+> I’m talking about a specific, extra type of integrity that is not lying, but **bending over backwards to show how you’re maybe wrong**, that you ought to do when acting as a scientist. And this is our responsibility as scientists, certainly to other scientists, and I think to laymen.
+
+## Principle 3: Publish your results whichever way they come out
+
+> One example of the principle is this: If you’ve made up your mind to test a theory, or you want to explain some idea, you should **always decide to publish it whichever way it comes out**. If we only publish results of a certain kind, we can make the argument look good. We must publish both kinds of result.
+
+## Principle 4: Be transparent
+
+> For example, if you’re doing an experiment, you should **report everything that you think might make it invalid—not only what you think is right about it**: other causes that could possibly explain your results; and things you thought of that you’ve eliminated by some other experiment, and how they worked—to make sure the other fellow can tell they have been eliminated.
+
+## Open science practices can...
+
+- Help you realize your idealistic aspirations
+- Prevent you from "fooling yourself"
+
+---
+
+- Improve reproducibility
+    - For you, your colleagues/collaborators, and others
+- Improve rigor
+- Enhance credibility
+- Save time & money
+    - Yours, colleagues/collaborators, and others
+- Accelerate discovery
+
+## {background-iframe="https://www.psu.edu/this-is-penn-state/mission-and-values/" background-interactive="true"}
+
+# Next steps...
+
+
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE).
+
+The source files are in R and R Markdown, then rendered to HTML using the
+[revealJS](https://revealjs.com) framework. 
+The HTML slides are hosted in a [GitHub repo](https://github.com/penn-state-open-science/bootcamp-2023-open-sci-what-why) and served by GitHub pages: 
+
+<https://penn-state-open-science.github.io/bootcamp-2023-open-sci-what-why/>
