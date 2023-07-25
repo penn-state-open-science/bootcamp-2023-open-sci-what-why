@@ -15,7 +15,7 @@ format:
 ## Support
 
 - National Institutes of Health, R01-HD094830
-- National Science Foundation, 
+- National Science Foundation OAS- 
 - John S. Templeton Foundation
 
 ## Agenda
@@ -23,6 +23,7 @@ format:
 - Cautionary tales
 - What is open science
 - Why does it matter
+- Next steps...
 
 # Cautionary tales
 
@@ -31,8 +32,6 @@ format:
 <iframe width="800" height="600" src="https://www.youtube.com/embed/66oNv_DJuPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- ## {background-iframe="https://www.youtube.com/embed/66oNv_DJuPc" background-interactive="true"} -->
-
-## "Three Little PI~~g~~s" {background-image="https://miro.medium.com/v2/resize:fit:720/format:webp/1*1xa8D5hsAnn6pQVVBklvhg.jpeg"}
 
 # What is open science?
 
@@ -71,22 +70,23 @@ format:
 
 ::::
 
-
 ## Sharing materials
 
 - Protocols
 - Data analysis
-    - Pregistered plans
+    - Pre-registered plans
     - Realized plans
     - Code
+    - Code books/data dictionaries
 - Surveys & displays
 
 ## {background-iframe="https://play-project.org/"}
 
 ## {background-iframe="https://penn-state-open-science.github.io/survey-fall-2022/"}
 
-## {background-iframe="https://www.protocols.io"}
+---
 
+![](img/protocols.io.png)
 ## {background-iframe="https://aspredicted.org"}
 
 ## {background-iframe="https://help.osf.io/article/158-create-a-preregistration"}
@@ -94,6 +94,10 @@ format:
 ## {background-iframe="https://nyu.databrary.org/volume/248" background-interactive="true"}
 
 ## Using version control
+
+![](https://imgs.xkcd.com/comics/documents.png)
+
+---
 
 ![](img/version-control-docx.png)
 
@@ -107,6 +111,7 @@ format:
 - There is no database of *references* to scholarly work in the public domain
     - ~~Google Scholar~~
     - ~~Web of Science~~
+- Blitz talk today
 
 # Why does it matter?
 
@@ -136,6 +141,11 @@ Robert Merton
 :::
 
 ::::
+
+
+## Norms and counter-norms
+
+
 
 
 ---
@@ -171,12 +181,40 @@ Richard Feynmann
 
 ## Principle 4: Be transparent
 
-> For example, if you’re doing an experiment, you should **report everything that you think might make it invalid—not only what you think is right about it**: other causes that could possibly explain your results; and things you thought of that you’ve eliminated by some other experiment, and how they worked—to make sure the other fellow can tell they have been eliminated.
+> For example, if you’re doing an experiment, you should **report everything that you think might make it invalid--not only what you think is right about it**: other causes that could possibly explain your results; and things you thought of that you’ve eliminated by some other experiment, and how they worked--to make sure the other fellow can tell they have been eliminated.
+
+## Threats to reproducible science
+
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-016-0021/MediaObjects/41562_2016_Article_BFs415620160021_Fig1_HTML.jpg?as=webp)
+
+Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Sert, N. P. du, Simonsohn, U., Wagenmakers, E.-J., Ware, J. J. & Ioannidis, J. P. A. (2017). A manifesto for reproducible science. *Nature Human Behaviour*, 1, 0021. https://doi.org/10.1038/s41562-016-0021
 
 ## Open science practices can...
 
-- Help you realize your idealistic aspirations
+- Help you realize your most idealistic aspirations
 - Prevent you from "fooling yourself"
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](img/nosek-utopia-I.png)
+
+:::
+
+::: {.column width="50%"}
+
+![](img/nosek-utopia-II.png)
+
+:::
+
+::::
+
+---
+
+![](img/gilmore-adolph-video.png)
 
 ---
 
@@ -190,16 +228,21 @@ Richard Feynmann
 
 ## {background-iframe="https://www.psu.edu/this-is-penn-state/mission-and-values/" background-interactive="true"}
 
+<!-- ## "Three Little PI~~g~~s" -->
+
+<!-- ![](https://d33wubrfki0l68.cloudfront.net/9e601ea90fee9eb2729de21f4272e8991a545490/2f970/en/blog/2019/09/05/the-three-little-pigs-is-a-fairy-tale/featured.jpg){} -->
+<!-- --- -->
+
+<!-- - What kind of edifice are we building? -->
+
 # Next steps...
-
-
 
 # Resources
 
 ## About
 
 This talk was produced using [Quarto](https://quarto.org), using the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE).
+Integrated Development Environment (IDE), version `r rstudioapi::versionInfo()$version`.
 
 The source files are in R and R Markdown, then rendered to HTML using the
 [revealJS](https://revealjs.com) framework. 
