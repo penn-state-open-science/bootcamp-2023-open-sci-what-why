@@ -7,7 +7,7 @@ bibliography: bib/open-sci.bib
 csl: bib/apa.csl
 format: 
   revealjs:
-    #logo: logo.png
+    logo: https://media.istockphoto.com/id/1316496511/vector/open-your-mind.jpg?s=612x612&w=0&k=20&c=Pg05zN4tZFFjsF5zDx0IcIuqKoU-K1plcxYQj7PgQNE=
     footer: "Open Science: What & Why?"
 
 ---
@@ -88,22 +88,25 @@ format:
 
 ---
 
-![](img/protocols.io.png)
-## {background-iframe="https://help.osf.io/article/158-create-a-preregistration"}
+![](img/protocols.io.png){fig-align="center"}
+---
+
+![](img/osf-prereg.png){fig-align="center"}
+
 
 ## {background-iframe="https://nyu.databrary.org/volume/248" background-interactive="true"}
 
 ## Using version control
 
-![](https://imgs.xkcd.com/comics/documents.png)
+![](https://imgs.xkcd.com/comics/documents.png){fig-align="center"}
 
 ---
 
-![](img/version-control-docx.png)
+![](img/version-control-docx.png){fig-align="center"}
 
 ---
 
-![](img/github-commit-history.png)
+![](img/github-commit-history.png){fig-align="center"}
 <https://github.com/penn-state-open-science/bootcamp-2023/commits/main>
 
 ## Open Access...
@@ -111,14 +114,14 @@ format:
 - There is no database of *references* to scholarly work in the public domain
     - ~~Google Scholar~~
     - ~~Web of Science~~
-- Blitz talk
+- Blitz talk on PSU Open Access policy (up next)
 - Preprints
 
 # Why does it matter?
 
 ---
 
-![](https://miro.medium.com/v2/resize:fit:640/1*Nv4oqbfv5IwRSMdLGtFZuA.gif)
+![](https://miro.medium.com/v2/resize:fit:640/1*Nv4oqbfv5IwRSMdLGtFZuA.gif){fig-align="center"}
 
 ---
 
@@ -130,14 +133,14 @@ format:
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 Robert Merton
 
 ![](https://upload.wikimedia.org/wikipedia/en/0/08/Robert_K_Merton.jpg)
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 ![](https://scontent-iad3-2.xx.fbcdn.net/v/t1.6435-9/67742840_393134398017152_6619486970500349952_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9267fe&_nc_ohc=YiWR9bQuPLMAX8RjHIm&_nc_ht=scontent-iad3-2.xx&oh=00_AfBZJ8eWyr-_w7SEC6rzzbIt0nyN4zKfmNaLX8j5WMsWPg&oe=64D632B1){width="600" image-position="center"}
 :::
 
@@ -147,14 +150,14 @@ Robert Merton
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 Richard Feynmann
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/220px-Richard_Feynman_Nobel.jpg)
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 > ..the idea that we all hope you have learned in studying science in school...It’s a kind of scientific integrity, a **principle of scientific thought that corresponds to a kind of utter honesty**...
 
@@ -168,14 +171,14 @@ Richard Feynmann
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 Richard Feynmann
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/220px-Richard_Feynman_Nobel.jpg)
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 > The first principle is that **you must not fool yourself—and you are the easiest person to fool**. So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists...
 
@@ -189,14 +192,14 @@ Richard Feynmann
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 Richard Feynmann
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/220px-Richard_Feynman_Nobel.jpg)
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 > ...a specific, extra type of integrity that is not lying, but **bending over backwards to show how you’re maybe wrong**, that you ought to do when acting as a scientist. And this is our responsibility as scientists, certainly to other scientists, and I think to laymen.
 
@@ -211,14 +214,14 @@ Richard Feynmann
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 Richard Feynmann
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/220px-Richard_Feynman_Nobel.jpg)
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 > ...If you’ve made up your mind to test a theory, or you want to explain some idea, you should **always decide to publish it whichever way it comes out**. If we only publish results of a certain kind, we can make the argument look good. We must publish both kinds of result.
 
@@ -232,14 +235,14 @@ Richard Feynmann
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 Richard Feynmann
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/220px-Richard_Feynman_Nobel.jpg)
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 > ...if you’re doing an experiment, you should **report everything that you think might make it invalid--not only what you think is right about it**: other causes that could possibly explain your results; and things you thought of that you’ve eliminated by some other experiment...
 
@@ -251,14 +254,14 @@ Richard Feynmann
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 Richard Feynmann
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/220px-Richard_Feynman_Nobel.jpg)
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 - Act with utter integrity
 - Don't fool yourself
@@ -272,11 +275,11 @@ Richard Feynmann
 
 ## Hogwash!
 
-![](https://www.nkch.org/blog/_assets/images/blog-features/2016/02/hog-in-a-washer_feature.jpg)
+![](https://www.nkch.org/blog/_assets/images/blog-features/2016/02/hog-in-a-washer_feature.jpg){fig-align="center"}
 
 ## Norms and counter-norms
 
-![](img/mitroff-norms-counternorms.png)
+![](img/mitroff-norms-counternorms.png){fig-align="center"}
 
 ---
 
@@ -315,17 +318,53 @@ Richard Feynmann
 
 [@Mitroff1974-pp, p. 592]
 
+## Science as a human activity
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Humans are...
+    - flawed
+    - often illogical
+    - emotional AND intellectual
+    - biased and have blind spots
+    - able to adapt and change
+    
+:::
+
+::: {.column width="50%"}
+
+![](https://media.tenor.com/bnK8AbXH7k8AAAAC/fascinating-mr-spock.gif){fig-align="center"}
+
+:::
+
+::::
+
+
 ---
 
-![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-016-0021/MediaObjects/41562_2016_Article_BFs415620160021_Fig1_HTML.jpg?as=webp)
+
+![](img/munafo-manifesto.png){fig-align="center"}
+
+
+---
+
+
+![](img/manifest-dictionary.png){fig-align="center"}
+
+
+---
+
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-016-0021/MediaObjects/41562_2016_Article_BFs415620160021_Fig1_HTML.jpg?as=webp){fig-align="center"}
 
 [@munafo_manifesto_2017]
 
 ## Open science practices can...
 
 - Help you
-    - Realize your most idealistic aspirations
-    - Find a realistic balance between self-serving and other-serving motivations
+    - Manifest your most idealistic aspirations
+    - Strike a realistic balance between self-serving and other-serving motivations
 - Prevent you from "fooling yourself"
 
 ---
@@ -364,7 +403,15 @@ Richard Feynmann
 - Friday (half-day)
     - Open Science @ Penn State
     
-## Join us!
+---
+
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44271-023-00003-2/MediaObjects/44271_2023_3_Fig1_HTML.png?as=webp){fig-align="center"}
+
+[@Korbmacher2023-jx]
+
+---
+
+![](https://media.istockphoto.com/id/1316496511/vector/open-your-mind.jpg?s=612x612&w=0&k=20&c=Pg05zN4tZFFjsF5zDx0IcIuqKoU-K1plcxYQj7PgQNE=){fig-align="center"}
 
 # Resources
 
