@@ -9,7 +9,6 @@ format:
   revealjs:
     logo: https://media.istockphoto.com/id/1316496511/vector/open-your-mind.jpg?s=612x612&w=0&k=20&c=Pg05zN4tZFFjsF5zDx0IcIuqKoU-K1plcxYQj7PgQNE=
     footer: "Open Science: What & Why?"
-
 ---
 
 # Preliminary
@@ -96,7 +95,7 @@ format:
 
 ## {background-iframe="https://nyu.databrary.org/volume/248" background-interactive="true"}
 
-## Using version control
+## Version control
 
 ![](https://imgs.xkcd.com/comics/documents.png){fig-align="center"}
 
@@ -127,7 +126,7 @@ format:
 
 > Science is a deceptively inclusive word which refers to a variety of distinct though interrelated items. It is commonly used to denote (1) a set of **characteristic methods** by means of which knowledge is certified; (2) a **stock of accumulated knowledge** stemming from the application of these methods; (3) a **set of cultural values** and mores governing the activities termed scientific; or (4) any combination of the foregoing.
 
-- [@Merton1973-vf, p. 268]
+[@Merton1973-vf, p. 268]
 
 ---
 
@@ -250,6 +249,15 @@ Richard Feynmann
 
 ::::
 
+## Science is... 
+
+- a **stock of accumulated knowledge**
+- a set of **characteristic methods** by means of which knowledge is certified
+
+- a **set of cultural values** and mores governing the activities termed scientific
+
+[@Merton1973-vf, p. 268]
+
 ---
 
 :::: {.columns}
@@ -273,6 +281,7 @@ Richard Feynmann
 
 ::::
 
+
 ## Hogwash!
 
 ![](https://www.nkch.org/blog/_assets/images/blog-features/2016/02/hog-in-a-washer_feature.jpg){fig-align="center"}
@@ -294,13 +303,13 @@ Richard Feynmann
 
 | Norm | Counternorm |
 |--------------|--------------|
-| *Universalism*: "The acceptance or rejection of claims entering the list of science is not to depend on the personal or social attributes of their protagonist; his race, nationality, religion, class and personal qualities are as such irrelevant. | *Particularism*: "The acceptance or rejection of claims entering the list of science is to a large extent a function of who makes the claim" (Boguslaw, 1968:59). The social and psychological characteristics of the scientist are important factors influencing how his work will be judged. |
+| *Universalism*: The acceptance or rejection of claims entering the list of science is not to depend on the personal or social attributes of their protagonist; his race, nationality, religion, class and personal qualities are as such irrelevant. | *Particularism*: "The acceptance or rejection of claims entering the list of science is to a large extent a function of who makes the claim" (Boguslaw, 1968:59). The social and psychological characteristics of the scientist are important factors influencing how his work will be judged. |
 
 [@Mitroff1974-pp, p. 592]
 
 ---
 
-| Norms | Counternorm |
+| Norm | Counternorm |
 |-------------|--------------|
 | *Communism*: "Property rights are reduced to the absolute minimum of credit for priority of discovery" (Barber, 1952:130). "Secrecy is the antithesis' of this norm; full and open communication [of scientific results] its enactment" (Merton, 1949:611). | *Solitariness* (or, "Miserism" [Boguslaw, 1968:59]): Property rights are expanded to include protective control over the disposition of one's discoveries; secrecy thus becomes a necessary moral act (Mitroff, 1974b). |
 
@@ -316,24 +325,25 @@ Richard Feynmann
 |--------------|--------------|
 | *Organized scepticism*: "The scientist is obliged ...	to make public his criticisms of the work of others when he believes it to be in error ...	no scientist's contribution to knowledge can be accepted without careful scrutiny, and that the scientist must doubt his own findings as well as those of others" (Storer, 1966: 79). | *Organized dogmatism*: "Each scientist should make certain that previous work by others on which he bases his work is sufficiently identified so that others can be held responsible for inadequacies while any possible credit accrues to oneself" (Boguslaw, 1968:59). |
 
-[@Mitroff1974-pp, p. 592]
-
 ## Science as a human activity
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
+::: {.incremental}
 - Humans are...
     - flawed
     - often illogical
     - emotional AND intellectual
-    - biased and have blind spots
-    - able to adapt and change
-    
+    - biased
+    - have blind spots
+- How can we overcome them?
+:::
+  
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 
 ![](https://media.tenor.com/bnK8AbXH7k8AAAAC/fascinating-mr-spock.gif){fig-align="center"}
 
@@ -341,12 +351,9 @@ Richard Feynmann
 
 ::::
 
-
 ---
 
-
 ![](img/munafo-manifesto.png){fig-align="center"}
-
 
 ---
 
@@ -359,6 +366,129 @@ Richard Feynmann
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-016-0021/MediaObjects/41562_2016_Article_BFs415620160021_Fig1_HTML.jpg?as=webp){fig-align="center"}
 
 [@munafo_manifesto_2017]
+
+## Claim
+
+- Better/stronger/less-biased methods...
+
+$\rightarrow$ better/stronger/less-biased *inferences*
+
+$\rightarrow$ more consistent (& realistic) expression of *scientific values*
+
+## *Methods* reproducibility
+
+>Methods reproducibility refers to the provision of enough detail about study procedures and data so the same procedures could, in theory or in actuality, be exactly repeated. [@Goodman2016-fi]
+
+::: {.incremental}
+- Does a typical journal article satisfy this?
+- Does project X from your lab group satisfy this?
+- What's your project's "bus number"?
+:::
+
+## HARK[^*] the herald...
+
+::: {.incremental}
+- Are you *sure* you remember clearly what you believed *before* you collected study data?
+- Are you *sure* you remember what analyses you planned to do to test your predictions?
+- Did you write it down?
+:::
+
+[^*]: Hypothesizing After Results are Known
+
+
+## {background-image="img/line-in-sand.jpg" background-size="contain"}
+
+<!-- https://sls.com.au/wp-content/uploads/2019/01/Campaign-image-4-1-837x319.jpg) -->
+
+---
+
+- Draw clear line between confirmatory (hypothesis/prior evidence driven)...
+- and exploratory results
+
+## Materials sharing
+
+- Get (scholarly) credit (i.e., *cited*) for your...
+    - instrument
+    - task
+    - stimuli or displays
+    - tool or technique
+
+## Data sharing
+
+![[@Gilmore_undated-gj]](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-obstacles-to-sharing-w-comm-1.png){fig-align="center"}
+
+---
+
+- Methods reproducibility as an avenue... 
+
+::: {.incremental}
+- If your data workflow is reproducible (by collaborators)
+- It's ready (or nearly ready) to share with others
+
+- Re-using data shared by others increases statistical power
+:::
+
+## But my data are restricted...
+
+![[@Gilmore_undated-gj]](https://penn-state-open-science.github.io/survey-fall-2022/include/img/restricted-data-preprocess-1.png){fig-align="center"}
+
+---
+
+- Sensitive, identifiable data *can* (often) be shared
+    - [Databrary](https://databrary.org)
+    - [Qualitative Data Repository (QDR)](https://qdr.syracuse.edu)
+    - Data sharing workshop (tomorrow)
+
+## Why open science: The big picture
+
+---
+
+![[@Baker2016-rz]](img/baker-2016-repro-crisis.png){fig-align="center"}
+
+---
+
+![[@Gilmore_undated-gj]](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-repro-crisis-your-area-1.png){fig-align="center"}
+
+---
+
+![[@Baker2016-rz]](img/baker-2016-repro-failures.png){fig-align="center"}
+
+---
+
+![[@Baker2016-rz]](img/baker-2016-repro-your-field.png){fig-align="center"}
+
+---
+
+![[@Baker2016-rz]](img/baker-2016-repro-factors.png){fig-align="center"}
+
+---
+
+![[@Baker2016-rz]](img/baker-2016-repro-brushing-teeth.png){fig-align="center"}
+
+---
+
+![[@Saul2023-xa]](img/nyt-tessier-lavigne.png){fig-align="center"}
+
+---
+
+<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&uniformYAxis=0&country=USA~GBR~CAN~DEU~ITA~IND&pickerSort=asc&pickerMetric=location&Metric=Cases+and+deaths&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<https://ourworldindata.org>
+
+---
+
+<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&facet=none&uniformYAxis=0&country=USA~GBR~CAN~DEU~ITA~IND&pickerSort=asc&pickerMetric=location&Metric=Excess+mortality+%28%25%29&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<https://ourworldindata.org>
+
+## {background-video="img/2021GISStempF-5yrAvg.webm"}
+
+## Rigorous, robust, reproducible science...
+
+::: {.incremental}
+- Has been essential to the improvement of human health and well-being
+- Will be increasingly important to these improvements in the 21st century and beyond
+- Can be strengthened
+- And must be
+:::
 
 ## Open science practices can...
 
@@ -374,32 +504,10 @@ Richard Feynmann
 - Enhance credibility
 - Save time & money
     - Yours, colleagues/collaborators, taxpayers
-- Improve scholarly rigor
 - Accelerate discovery
+- Improve scholarly rigor & reach
 
-## "Three Little PI~~g~~s"
-
-![](https://d33wubrfki0l68.cloudfront.net/9e601ea90fee9eb2729de21f4272e8991a545490/2f970/en/blog/2019/09/05/the-three-little-pigs-is-a-fairy-tale/featured.jpg)
-
----
-
-<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&uniformYAxis=0&country=USA~GBR~CAN~DEU~ITA~IND&pickerSort=asc&pickerMetric=location&Metric=Cases+and+deaths&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-<https://ourworldindata.org>
-
----
-
-<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&facet=none&uniformYAxis=0&country=USA~GBR~CAN~DEU~ITA~IND&pickerSort=asc&pickerMetric=location&Metric=Excess+mortality+%28%25%29&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-<https://ourworldindata.org>
-
-## {background-video="img/2021GISStempF-5yrAvg.webm"}
-
-## Science...
-
-- Has been essential to the improvement of human health and well-being
-- Will be increasingly important to these improvements in the 21st century and beyond
-- Requires openness and transparency to be maximally informative and useful
-
-# Next steps...
+# Let's get to work...
 
 ## Bootcamp
 
@@ -422,7 +530,7 @@ Richard Feynmann
 
 [@Korbmacher2023-jx]
 
----
+## Open minds & open science
 
 ![](https://media.istockphoto.com/id/1316496511/vector/open-your-mind.jpg?s=612x612&w=0&k=20&c=Pg05zN4tZFFjsF5zDx0IcIuqKoU-K1plcxYQj7PgQNE=){fig-align="center"}
 
