@@ -11,22 +11,21 @@ format:
     footer: "Open Science: What & Why?"
 ---
 
-# Preliminary
-
 ## Support
 
 - National Institutes of Health, R01-HD094830
-- National Science Foundation OAS-2032713
+- National Science Foundation, OAS-2032713
 - John S. Templeton Foundation
+- Penn State Child Study Center
 
 ## Agenda
 
-- Cautionary tales
+- A cautionary tale
 - What is open science
-- Why does it matter
-- Next steps...
+- Why it matters
+- Let's get to work...
 
-# Cautionary tales
+# A cautionary tale
 
 ---
 
@@ -40,67 +39,67 @@ format:
 
 ## Wikipedia {background-image="https://upload.wikimedia.org/wikipedia/commons/d/d8/UNESCO-Open_science-pillars-en.png" background-size="contain" background-opacity="1"}
 
-## Open...
-
-- Knowledge
-- Infrastructure
-- Engagement
-- Dialogue
-
 ## Sharing data
 
 :::: {.columns}
 
 ::: {.column width="50%"}
-![](https://raw.githubusercontent.com/databrary/databrary/3d72b67991df39ddb4b0930386ea94e2c5bb5733/web/images/logo/databrary.png){width=250}
+![](https://raw.githubusercontent.com/databrary/databrary/3d72b67991df39ddb4b0930386ea94e2c5bb5733/web/images/logo/databrary.png){width=250 fig-align="center"}
 
-![](https://blogs.bodleian.ox.ac.uk/science/wp-content/uploads/sites/140/2022/11/OSF.png){width="250"}
+![](https://blogs.bodleian.ox.ac.uk/science/wp-content/uploads/sites/140/2022/11/OSF.png){width=250 fig-align="center"}
 
-![](https://www.ohionet.org/wp-content/uploads/2021/08/ICPSR_logo_rgb_3.png){width="250"}
+![](https://www.ohionet.org/wp-content/uploads/2021/08/ICPSR_logo_rgb_3.png){width=250 fig-align="center"}
 
-![](img/scholarsphere.png){width="250"}
+![](img/scholarsphere.png){width=250 fig-align="center"}
 :::
 
 ::: {.column width="50%"}
-![](img/data-commons.png){width="250"}
+![](img/data-commons.png){width=250 fig-align="center"}
 
-![](img/qdr.png){width="250"}
+![](img/qdr.png){width=250 fig-align="center"}
 
-![](img/scientific-data.png){width="250"}
+![](img/scientific-data.png){width=250 fig-align="center"}
 
-![](https://dataverse.org/files/dataverseorg/files/dataverse_r_project.png){width="250"}
+![](https://dataverse.org/files/dataverseorg/files/dataverse_r_project.png){width=250 fig-align="center"}
 :::
 
 ::::
 
+---
+
+![[@Carroll2021-cr]](https://eloka-arctic.org/sites/default/files/inline-images/fair.jpg){fig-align="center"}
+
 ## Sharing materials
 
 - Protocols
+- Surveys & displays, reagents, etc.
 - Data analysis
     - Pre-registered plans
     - Realized plans
     - Code
     - Code books/data dictionaries
-- Surveys & displays
 
-## {background-iframe="https://play-project.org/"}
+## {background-iframe="https://play-project.org/" background-interactive="true"}
 
 ## {background-iframe="https://penn-state-open-science.github.io/survey-fall-2022/"}
 
 ---
 
 ![](img/protocols.io.png){fig-align="center"}
+
+## {background-iframe="https://nyu.databrary.org/volume/248" background-interactive="true"}
+
 ---
 
 ![](img/osf-prereg.png){fig-align="center"}
 
+---
 
-## {background-iframe="https://nyu.databrary.org/volume/248" background-interactive="true"}
+![](img/as-predicted.png){fig-align="center"}
 
 ## Version control
 
 ![](https://imgs.xkcd.com/comics/documents.png){fig-align="center"}
-
 ---
 
 ![](img/version-control-docx.png){fig-align="center"}
@@ -112,40 +111,44 @@ format:
 
 ## Open Access...
 
-- There is no database of *references* to scholarly work in the public domain
-    - ~~Google Scholar~~
-    - ~~Web of Science~~
 - Blitz talk on PSU Open Access policy (up next)
-- Preprints
+
+---
+
+![](img/arxiv.png){fig-align="center"}
+
+---
+
+![](img/psyarxiv.png){fig-align="center"}
+
+---
+
+![](img/bioarxiv.png){fig-align="center"}
+
+---
+
+![](img/toolkit.jpg){fig-align="center"}
 
 # Why does it matter?
 
 ---
 
 ![](https://miro.medium.com/v2/resize:fit:640/1*Nv4oqbfv5IwRSMdLGtFZuA.gif){fig-align="center"}
-
 ---
 
-> Science is a deceptively inclusive word which refers to a variety of distinct though interrelated items. It is commonly used to denote (1) a set of **characteristic methods** by means of which knowledge is certified; (2) a **stock of accumulated knowledge** stemming from the application of these methods; (3) a **set of cultural values** and mores governing the activities termed scientific; or (4) any combination of the foregoing.
+![](https://theromanguy.com/wp-content/uploads/pantheon-feature-real-900x420.jpeg){fig-align="center"}
 
-[@Merton1973-vf, p. 268]
+## What is science, really? 
 
----
+::: {.incremental}
+- a **stock of accumulated knowledge** (facts & findings)
+- a set of **characteristic methods** 
 
-:::: {.columns}
+- a **set of cultural values** [@Merton1973-vf, p. 268]
 
-::: {.column width="40%"}
-Robert Merton
-
-![](https://upload.wikimedia.org/wikipedia/en/0/08/Robert_K_Merton.jpg)
 
 :::
 
-::: {.column width="60%"}
-![](https://scontent-iad3-2.xx.fbcdn.net/v/t1.6435-9/67742840_393134398017152_6619486970500349952_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9267fe&_nc_ohc=YiWR9bQuPLMAX8RjHIm&_nc_ht=scontent-iad3-2.xx&oh=00_AfBZJ8eWyr-_w7SEC6rzzbIt0nyN4zKfmNaLX8j5WMsWPg&oe=64D632B1){width="600" image-position="center"}
-:::
-
-::::
 
 ---
 
@@ -160,9 +163,11 @@ Richard Feynmann
 
 ::: {.column width="60%"}
 
-> ..the idea that we all hope you have learned in studying science in school...It’s a kind of scientific integrity, a **principle of scientific thought that corresponds to a kind of utter honesty**...
+>...the idea that we all hope you have learned in studying science in school...It’s a kind of scientific integrity, a **principle of scientific thought that corresponds to a kind of utter honesty**... 
 
+<p style="text-align:center;">
 [@Feynman1974-ld]
+</p>
 
 :::
 
@@ -183,7 +188,9 @@ Richard Feynmann
 
 > The first principle is that **you must not fool yourself—and you are the easiest person to fool**. So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists...
 
+<p style="text-align:center;">
 [@Feynman1974-ld]
+</p>
 
 :::
 
@@ -202,9 +209,11 @@ Richard Feynmann
 
 ::: {.column width="60%"}
 
-> ...a specific, extra type of integrity that is not lying, but **bending over backwards to show how you’re maybe wrong**, that you ought to do when acting as a scientist. And this is our responsibility as scientists, certainly to other scientists, and I think to laymen.
+> ...a specific, extra type of integrity that is not lying, but **bending over backwards to show how you’re maybe wrong**, that you ought to do when acting as a scientist. And this is our responsibility as scientists, certainly to other scientists, and I think to laymen. 
 
+<p style="text-align:center;">
 [@Feynman1974-ld]
+</p>
 
 :::
 
@@ -224,9 +233,11 @@ Richard Feynmann
 
 ::: {.column width="60%"}
 
-> ...If you’ve made up your mind to test a theory, or you want to explain some idea, you should **always decide to publish it whichever way it comes out**. If we only publish results of a certain kind, we can make the argument look good. We must publish both kinds of result.
+> ...If you’ve made up your mind to test a theory, or you want to explain some idea, you should **always decide to publish it whichever way it comes out**. If we only publish results of a certain kind, we can make the argument look good. We must publish both kinds of result. 
 
+<p style="text-align:center;">
 [@Feynman1974-ld]
+</p>
 
 :::
 
@@ -247,42 +258,30 @@ Richard Feynmann
 
 > ...if you’re doing an experiment, you should **report everything that you think might make it invalid--not only what you think is right about it**: other causes that could possibly explain your results; and things you thought of that you’ve eliminated by some other experiment...
 
+<p style="text-align:center;">
+[@Feynman1974-ld]
+</p>
+
 :::
 
 ::::
-
-## Science is... 
-
-- a **stock of accumulated knowledge**
-- a set of **characteristic methods** by means of which knowledge is certified
-
-- a **set of cultural values** and mores governing the activities termed scientific
-
-[@Merton1973-vf, p. 268]
 
 ---
 
 :::: {.columns}
 
 ::: {.column width="40%"}
-Richard Feynmann
+Robert Merton
 
-![](https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Richard_Feynman_Nobel.jpg/220px-Richard_Feynman_Nobel.jpg)
+![](https://upload.wikimedia.org/wikipedia/en/0/08/Robert_K_Merton.jpg)
 
 :::
 
 ::: {.column width="60%"}
-
-- Act with utter integrity
-- Don't fool yourself
-- Bend over backwards to show how you might be wrong
-- Publish null and contradictory results
-- Report everything that might make an experiment invalid
-
+![](https://scontent-iad3-2.xx.fbcdn.net/v/t1.6435-9/67742840_393134398017152_6619486970500349952_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9267fe&_nc_ohc=YiWR9bQuPLMAX8RjHIm&_nc_ht=scontent-iad3-2.xx&oh=00_AfBZJ8eWyr-_w7SEC6rzzbIt0nyN4zKfmNaLX8j5WMsWPg&oe=64D632B1){width="600" image-position="center"}
 :::
 
 ::::
-
 
 ## Hogwash!
 
@@ -299,21 +298,30 @@ Richard Feynmann
 | Faith in the *moral virtue of rationality* (Barber, 1952). | Faith in the *moral virtue of rationality and nonrationality* (cf., Tart, 1972). |
 | *Emotional neutrality* as an instrumental condition for the achievement of rationality (Barber, 1952). |  *Emotional commitment* as an instrumental condition for the achievement of rationality. |
 
+<p style="text-align:center;">
 [@Mitroff1974-pp, p. 592]
+</p>
 
 ---
 
 | Norm | Counternorm |
 |--------------|--------------|
-| *Universalism*: The acceptance or rejection of claims entering the list of science is not to depend on the personal or social attributes of their protagonist; his race, nationality, religion, class and personal qualities are as such irrelevant. | *Particularism*: "The acceptance or rejection of claims entering the list of science is to a large extent a function of who makes the claim" (Boguslaw, 1968:59). The social and psychological characteristics of the scientist are important factors influencing how his work will be judged. |
+| *Universalism*: The acceptance or rejection of claims entering the list of science is not to depend on the personal or social attributes of their protagonist; his race, nationality, religion, class and personal qualities are as such irrelevant. | *Particularism*: "The acceptance or rejection of claims entering the list of science is to a large extent a function of who makes the claim" (Boguslaw, 1968:59) |
 
+<p style="text-align:center;">
 [@Mitroff1974-pp, p. 592]
+</p>
+
 
 ---
 
 | Norm | Counternorm |
 |-------------|--------------|
-| *Communism*: "Property rights are reduced to the absolute minimum of credit for priority of discovery" (Barber, 1952:130). "Secrecy is the antithesis' of this norm; full and open communication [of scientific results] its enactment" (Merton, 1949:611). | *Solitariness* (or, "Miserism" [Boguslaw, 1968:59]): Property rights are expanded to include protective control over the disposition of one's discoveries; secrecy thus becomes a necessary moral act (Mitroff, 1974b). |
+| *Communism*: "Property rights are reduced to the absolute minimum of credit for priority of discovery" (Barber, 1952:130). "Secrecy is the antithesis' of this norm; full and open communication [of scientific results] its enactment" (Merton, 1949:611). | *Solitariness* (or, "Miserism" [Boguslaw, 1968:59]): Property rights are expanded to include protective control over the disposition of one's discoveries; secrecy thus becomes a necessary moral act. |
+
+<p style="text-align:center;">
+[@Mitroff1974-pp, p. 592]
+</p>
 
 ---
 
@@ -321,13 +329,11 @@ Richard Feynmann
 |--------------|--------------|
 | *Disinterestedness*: "Scientists are expected by their peers to achieve the self-interest they have in work--satisfaction and in prestige through serving the [scientific] community interest directly" (Barber, 1952:132). | *Interestedness*: Scientists are expected by their close colleagues to achieve the self-interest they have in work-satisfaction and in prestige through serving their special communities of interest, e.g., their invisible college (Boguslaw, 1968:59; Mitroff, 1974b) |
 
----
+<p style="text-align:center;">
+[@Mitroff1974-pp, p. 592]
+</p>
 
-| Norm | Counternorm |
-|--------------|--------------|
-| *Organized scepticism*: "The scientist is obliged ...	to make public his criticisms of the work of others when he believes it to be in error ...	no scientist's contribution to knowledge can be accepted without careful scrutiny, and that the scientist must doubt his own findings as well as those of others" (Storer, 1966: 79). | *Organized dogmatism*: "Each scientist should make certain that previous work by others on which he bases his work is sufficiently identified so that others can be held responsible for inadequacies while any possible credit accrues to oneself" (Boguslaw, 1968:59). |
-
-## Science as a human activity
+## Science is a *human* activity
 
 :::: {.columns}
 
@@ -340,7 +346,7 @@ Richard Feynmann
     - emotional AND intellectual
     - biased
     - have blind spots
-- How can we overcome them?
+- By what means can we mitigate or overcome these?
 :::
   
 :::
@@ -359,15 +365,16 @@ Richard Feynmann
 
 ---
 
+>Improving the reliability and efficiency of scientific research will **increase the credibility of the published scientific literature and accelerate discovery**. Here we argue for the adoption of measures to optimize key elements of the scientific process: methods, reporting and dissemination, reproducibility, evaluation and incentives...We discuss the goals of these measures, and how they can be implemented, in the hope that this will facilitate action toward **improving the transparency, reproducibility and efficiency of scientific research**. 
+>
 
-![](img/manifest-dictionary.png){fig-align="center"}
-
+<p style="text-align:center;">
+[@munafo_manifesto_2017]
+</p>
 
 ---
 
-![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-016-0021/MediaObjects/41562_2016_Article_BFs415620160021_Fig1_HTML.jpg?as=webp){fig-align="center"}
-
-[@munafo_manifesto_2017]
+![[@munafo_manifesto_2017]](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-016-0021/MediaObjects/41562_2016_Article_BFs415620160021_Fig1_HTML.jpg?as=webp){fig-align="center"}
 
 ## Claim
 
@@ -379,56 +386,47 @@ $\rightarrow$ more consistent (& realistic) expression of *scientific values*
 
 ## *Methods* reproducibility
 
->Methods reproducibility refers to the provision of enough detail about study procedures and data so the same procedures could, in theory or in actuality, be exactly repeated. [@Goodman2016-fi]
+:::: {.columns}
 
-::: {.incremental}
+::: {.column width=50%}
+
+>Methods reproducibility refers to the provision of enough detail about study procedures and data so the same procedures could, in theory or in actuality, be exactly repeated. 
+
+<p style="text-align:center;">
+[@Goodman2016-fi]
+</p>
+
+:::
+
+::: {.column width=50%}
 - Does a typical journal article satisfy this?
 - Does project X from your lab group satisfy this?
-- What's your project's "bus number"?
+- Reproducible to your team $\rightarrow$ reproducible to others
 :::
+
+::::
 
 ## HARK[^*] the herald...
 
-::: {.incremental}
 - Are you *sure* you remember clearly what you believed *before* you collected study data?
 - Are you *sure* you remember what analyses you planned to do to test your predictions?
 - Did you write it down?
-:::
 
 [^*]: Hypothesizing After Results are Known
-
 
 ## {background-image="img/line-in-sand.jpg" background-size="contain"}
 
 <!-- https://sls.com.au/wp-content/uploads/2019/01/Campaign-image-4-1-837x319.jpg) -->
 
+## Why open science @ Penn State
+
+![[@Gilmore_undated-gj]](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-import-share-community-1.png){fig-align="center"}
+
 ---
-
-- Draw clear line between confirmatory (hypothesis/prior evidence driven)...
-- and exploratory results
-
-## Materials sharing
-
-- Get (scholarly) credit (i.e., *cited*) for your...
-    - instrument
-    - task
-    - stimuli or displays
-    - tool or technique
-
-## Data sharing
 
 ![[@Gilmore_undated-gj]](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-obstacles-to-sharing-w-comm-1.png){fig-align="center"}
 
 ---
-
-- Methods reproducibility as an avenue... 
-
-::: {.incremental}
-- If your data workflow is reproducible (by collaborators)
-- It's ready (or nearly ready) to share with others
-
-- Re-using data shared by others increases statistical power
-:::
 
 ## But my data are restricted...
 
@@ -440,8 +438,16 @@ $\rightarrow$ more consistent (& realistic) expression of *scientific values*
     - [Databrary](https://databrary.org)
     - [Qualitative Data Repository (QDR)](https://qdr.syracuse.edu)
     - Data sharing workshop (tomorrow)
+    
+## Data management poses challenges
 
-## Why open science: The big picture
+![[@Gilmore_undated-gj]](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-equipped-for-new-reqmts-1.png){fig-align="center"}
+
+---
+
+![[@Gilmore_undated-gj]](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-benefit-from-psu-ctr-1.png){fig-align="center"}
+
+## Why open science: The bigger picture
 
 ---
 
@@ -530,7 +536,7 @@ $\rightarrow$ more consistent (& realistic) expression of *scientific values*
 - Friday (half-day)
     - Open Science @ Penn State
     
----
+## May all your crises be good ones...
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44271-023-00003-2/MediaObjects/44271_2023_3_Fig1_HTML.png?as=webp){fig-align="center"}
 
