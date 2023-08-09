@@ -447,6 +447,10 @@ $\rightarrow$ more consistent (& realistic) expression of *scientific values*
 
 ![[@Gilmore_undated-gj]](https://penn-state-open-science.github.io/survey-fall-2022/include/img/fig-benefit-from-psu-ctr-1.png){fig-align="center"}
 
+---
+
+![](img/Image_of_silos.png){fig-align="center"}
+
 ## Why open science: The bigger picture
 
 ---
@@ -507,7 +511,7 @@ $\rightarrow$ more consistent (& realistic) expression of *scientific values*
 - Help you
     - Manifest your most idealistic aspirations
     - Strike a realistic balance between self-serving and other-serving motivations
-    - avoid "fooling yourself"
+    - Avoid "fooling yourself"
 
 ---
 
@@ -531,12 +535,12 @@ $\rightarrow$ more consistent (& realistic) expression of *scientific values*
 ---
 
 - Tomorrow (Thu)
-    - Hands-on workshops
+    - Hands-on [workshops](https://penn-state-open-science.github.io/bootcamp-2023/day_2.html)
     
 - Friday (half-day)
-    - Open Science @ Penn State
+    - [Open Science @ Penn State](https://penn-state-open-science.github.io/bootcamp-2023/day_3.html)
     
-## May all your crises be good ones...
+## May all our crises be good ones...
 
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs44271-023-00003-2/MediaObjects/44271_2023_3_Fig1_HTML.png?as=webp){fig-align="center"}
 
@@ -544,7 +548,7 @@ $\rightarrow$ more consistent (& realistic) expression of *scientific values*
 [@Korbmacher2023-jx]
 </p>
 
-## Open minds & open science
+## Your thoughts?
 
 ![](https://media.istockphoto.com/id/1316496511/vector/open-your-mind.jpg?s=612x612&w=0&k=20&c=Pg05zN4tZFFjsF5zDx0IcIuqKoU-K1plcxYQj7PgQNE=){fig-align="center"}
 
